@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&family=Gruppo&family=Oleo+Script:wght@400;700&family=Playball&display=swap');
+
+
+h4 {
+    font-family:'Oleo Script', cursive;
+}
+
+h1, h3 {
+    font-family:'Playball', cursive;
+}
+
+h2, h4, h5, a {
+    font-family:'Alkatra', cursive;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

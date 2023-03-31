@@ -1,0 +1,16 @@
+@import "banner.css";
+@import "container.css";
+@import "footer.css";
+@import "headers.css";
+@import "font.css";
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+
+
+
+

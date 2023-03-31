@@ -1,0 +1,9 @@
+.banner {
+    background-image: url(../images/baseball.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
